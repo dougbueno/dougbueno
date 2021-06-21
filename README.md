@@ -28,11 +28,9 @@
 
 <p align="center">
 	<a href="https://github.com/dougbueno"><img src="https://img.icons8.com/material-outlined/64/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/douglas-bueno-de-oliveira-194214196/">
-	<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
-	<a href="https://www.instagram.com/dbueno_oliveira/">
-	<img src="https://img.icons8.com/cute-clipart/64/000000/instagram.png"/></a>
-	</p>
+	<a href="https://www.linkedin.com/in/douglas-bueno-de-oliveira-194214196/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/dbueno_oliveira/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
+</p>
 	
 <p align="center">
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
