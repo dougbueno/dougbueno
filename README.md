@@ -30,6 +30,8 @@
 	<a href="https://github.com/dougbueno"><img src="https://img.icons8.com/material-outlined/64/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/douglas-bueno-de-oliveira-194214196/">
 	<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/dbueno_oliveira/">
+	<img src="https://img.icons8.com/cute-clipart/64/000000/instagram.png"/></a>
 	</p>
 	
 <p align="center">
